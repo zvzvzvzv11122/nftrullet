@@ -1,0 +1,13 @@
+{
+  "url": "https://your-app-url.com",
+  "name": "Telegram NFT Gifts",
+  "iconUrl": "https://your-app-url.com/app-icon.png",
+  "termsOfUseUrl": "https://your-app-url.com/terms",
+  "privacyPolicyUrl": "https://your-app-url.com/privacy"
+}
+// IMPORTANT: 
+// 1. Replace "https://your-app-url.com" with your actual application's domain.
+// 2. Replace "https://your-app-url.com/app-icon.png" with a direct link to a square icon for your app.
+// 3. Update termsOfUseUrl and privacyPolicyUrl if you have them.
+// This file (tonconnect-manifest.json) must be publicly accessible at the root of your domain, 
+// e.g., https://your-app-url.com/tonconnect-manifest.json

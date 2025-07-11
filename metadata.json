@@ -1,0 +1,6 @@
+{
+  "name": "Telegram NFT Gifts",
+  "description": "A web application that simulates opening gift boxes (cases) to win NFTs, using TON as a virtual currency. Features include case selection, a spinning animation for revealing the won NFT, and a balance management system.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
